@@ -1,21 +1,18 @@
-import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import { Route, HashRouter } from 'react-router-dom';
+import About from './components/about';
+import Work from './components/work';
+import Projects from './components/projects';
+import Links from './components/links';
 
-class App extends Component {
-  render() {
-    return (
-      <div className="App">
-        <div className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <h2>Jules Rules</h2>
-        </div>
-        <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
-        </p>
-      </div>
-    );
-  }
-}
+const App = () => (
+  <section className="main-wrapper">
+    <Route path="/" component={Links} />
+    <Route exact path="/" component={About} />
+    <Route path="/about" component={About} />
+    <Route path="/work" component={Work} />
+    <Route path="/projects" component={Projects} />
+  </section>
+);
 
 export default App;
