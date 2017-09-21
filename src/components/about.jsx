@@ -5,7 +5,7 @@ const About = () => (
     <h2 className="header">JULES COSTA</h2>
     <section className="content-wrapper">
       <div className="contact-info">
-        <p><i class="fa fa-phone" aria-hidden="true"></i>973.580.7876</p>
+        <p><i className="fa fa-phone" aria-hidden="true"></i>973.580.7876</p>
         <p>julesleighcosta@gmail.com</p>
       </div>
       <p>Hey, I'm Jules. My core values are honest communication, compassion, purpose-driven learning and growth, self-care, creativity, and nurturing the growth of people around me.</p>
