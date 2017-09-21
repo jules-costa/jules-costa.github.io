@@ -2,7 +2,7 @@
   "name": "jules-personal-site",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jules-costa.github.io/jules-costa.github.io",
+  "homepage": "https://jules-costa.github.io/jules-personal-site",
   "dependencies": {
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
