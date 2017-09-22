@@ -1,4 +1,4 @@
-h1, h2, h3, h4, h5, h6, a, p, div, section {
+/*h1, h2, h3, h4, h5, h6, a, p, div, section {
   margin: 0;
   padding: 0;
   border: 0;
@@ -101,16 +101,16 @@ img {
     margin-bottom: 0;
   }
 
-  .contact-info {
-    display: flex;
-    justify-content: space-between;
-    width: 350px;
-    align-self: flex-start;
-  }
+.contact-info {
+  display: flex;
+  justify-content: space-between;
+  width: 350px;
+  align-self: flex-start;
+}
 
 .fa-phone {
   margin-right: 8px;
 }
 .fa-envelope-o {
   margin-right: 8px;
-}
+}*/
