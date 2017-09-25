@@ -11947,12 +11947,12 @@ var About = function About() {
       _react2.default.createElement(
         "p",
         null,
-        "My technical toolbox includes: Ruby, Rails, Redux, React.js, ES5, ES6, Postgres, SQL, HTML5, CSS3, SASS, Webpack/Babel & Heroku."
+        "My technical toolbox includes: Ruby, Rails, Redux, React.js, ES5/ES6, Postgres, SQL, HTML5, CSS3, SASS, Webpack/Babel & Heroku."
       ),
       _react2.default.createElement(
         "p",
         null,
-        "I love discovering new and better ways to design and develop software. I have a keen eye for detail, and strive to produce clean, maintainable, scaleable code."
+        "I love discovering new ways to design and develop software. I have a keen eye for detail, and strive to produce clean, maintainable, scaleable code."
       ),
       _react2.default.createElement(
         "p",
