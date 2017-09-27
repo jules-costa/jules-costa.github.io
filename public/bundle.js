@@ -12018,7 +12018,7 @@ var Links = function Links() {
       ),
       _react2.default.createElement(
         'a',
-        { href: '../../jules_costa_long_resume.pdf' },
+        { href: '../../public/jules_costa_long_resume.pdf' },
         _react2.default.createElement('i', { className: 'fa fa-file-o', 'aria-hidden': 'true' })
       )
     )
