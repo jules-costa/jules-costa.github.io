@@ -61,7 +61,7 @@ p {
 }
 
 .wrapper {
-  margin-left: 30px;
+  margin-left: 28px;
   flex: 2;
 }
 
@@ -83,7 +83,6 @@ p {
   min-width: 100px;
   flex-direction: column;
   justify-content: center;
-  margin-right: 12px;
   align-items: flex-end;
 }
 
