@@ -50,6 +50,7 @@ p {
   font-family: 'Open Sans', sans-serif;
   margin-bottom: 10px;
   font-size: 14px;
+  overflow-wrap: break-word;
 }
 
 .main-wrapper {
@@ -61,8 +62,9 @@ p {
 }
 
 .wrapper {
-  margin-left: 28px;
+  padding-left: 40px;
   flex: 2;
+
 }
 
 .content-wrapper {
