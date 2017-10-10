@@ -51,6 +51,7 @@ p {
   margin-bottom: 10px;
   font-size: 14px;
   overflow-wrap: break-word;
+  text-align: justify;
 }
 
 .main-wrapper {
@@ -69,8 +70,8 @@ p {
 .content-wrapper {
   display: flex;
   flex-direction: column;
-  height: 400px;
-  width: 450px;
+  height: 425px;
+  width: 425px;
   justify-content: space-between;
 }
 
@@ -133,3 +134,15 @@ content: none;
 div.personal-links a:hover::after {
   content: none;
 }
+
+
+/*.main-wrapper {
+    -moz-margin-top: 250px;
+    -webkit-margin-top: 250px;
+    margin-top: 250px;
+}
+.content-wrapper {
+  -moz-padding-right: 235px;
+  -webkit-padding-right: 235px;
+  padding-right: 235px;
+}*/
