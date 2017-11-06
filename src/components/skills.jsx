@@ -1,8 +1,8 @@
 import React from 'react';
 
-const Technologies = () => (
+const Skills = () => (
   <div className="wrapper">
-    <h2 className="header">TECHNOLOGIES</h2>
+    <h2 className="header">SKILLS</h2>
     <section className="content-wrapper">
       <ul>
         <li>Ruby</li>
@@ -25,4 +25,4 @@ const Technologies = () => (
   </div>
 );
 
-export default About;
+export default Skills;

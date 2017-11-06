@@ -6,6 +6,7 @@ const Links = () => {
     <section className="links">
       <NavLink to="/about">ABOUT</NavLink>
       <NavLink to="/work">WORK</NavLink>
+      <NavLink to="/skills">SKILLS</NavLink>
       <NavLink to="/projects">PROJECTS</NavLink>
       <div className="personal-links">
         <a href="https://www.linkedin.com/in/julianne-costa"><i className="fa fa-linkedin" aria-hidden="true"></i></a>

@@ -3,6 +3,7 @@ import { Route } from 'react-router-dom';
 import About from './components/about';
 import Work from './components/work';
 import Projects from './components/projects';
+import Skills from './components/skills';
 import Links from './components/links';
 
 const App = () => (
@@ -11,6 +12,7 @@ const App = () => (
     <Route exact path="/" component={About} />
     <Route path="/about" component={About} />
     <Route path="/work" component={Work} />
+    <Route path="/skills" component={Skills} />
     <Route path="/projects" component={Projects} />
   </section>
 );
